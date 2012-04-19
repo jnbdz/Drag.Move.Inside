@@ -2,6 +2,6 @@ name: Drag.Move.Inside
 author: jnbdz
 category: Utilities
 tags: [inside, detect, check, element, drag, drag.move]
-demo: http://jsfiddle.net/jnbdz/yUmDL/
+demo: http://jsfiddle.net/jnbdz/yUmDL/1/
 docs: https://github.com/jnbdz/Drag.Move.Inside/blob/master/Docs/Drag.Move.Inside.md
-current: 0.1
+current: 0.2
