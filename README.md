@@ -3,7 +3,7 @@ Drag.Move.Inside
 
 The Drag.Move.Inside class makes it easy to check if an element is inside another element while dragging one of the elements.
 
-![Screenshot](https://github.com/jnbdz/Drag.Move.Inside/raw/master/drag.move.inside.png)
+![Screenshot](https://github.com/jnbdz/Drag.Move.Inside/raw/master/Drag.Move.Inside.png)
 
 How to use
 ----------
